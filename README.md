@@ -21,14 +21,21 @@ What role do sleep, workload, and managerial support play in workforce mental he
 Tools & Technologies Used
 
 Tool	Purpose
-Python	Data cleaning, preprocessing, EDA
+Python Data cleaning, preprocessing, EDA
+
 Pandas & NumPy	Data manipulation
+
 Matplotlib & Seaborn	Data visualization
+
 MySQL	Business analysis & SQL querying
+
 Tableau	Interactive dashboards & storytelling
+
 Jupyter Notebook	Analysis workflow
 
+
 Project Workflow
+
 Raw Dataset
    ↓
 Python Data Cleaning & EDA
@@ -40,47 +47,73 @@ SQL Business Analysis
 Tableau Dashboard Development
    ↓
 Executive Insights & Storytelling
+
 Dataset Features
 
 The dataset contains workforce-related metrics including:
 
 Employee demographics
+
 Work mode & workload patterns
+
 Burnout & stress scores
+
 Mental health indicators (PHQ9 / GAD7)
+
 AI adoption metrics
+
 Work-life balance scores
+
 Job satisfaction
+
 Attrition intention
+
 Managerial support metrics
+
 Key Analysis Performed
 
 Python Analysis
 
 Data cleaning & preprocessing
+
 Missing value handling
+
 Exploratory Data Analysis (EDA)
+
 Correlation analysis
+
 Feature engineering
+
 Burnout trend analysis
+
 Stress distribution analysis
 
 SQL Analysis
 
 KPI analysis
+
 Burnout segmentation
+
 Attrition risk analysis
+
 AI impact analysis
+
 Lifestyle & wellbeing analysis
+
 Advanced SQL queries
+
 Window functions & CTEs
 
 Tableau Dashboard
 
 Executive KPI Dashboard
+
 Burnout Analysis Dashboard
+
 AI Adoption Impact Dashboard
+
 Attrition Risk Dashboard
+
 Mental Health Analytics Dashboard
 
 Key Insights
@@ -106,3 +139,4 @@ Encourage healthier work-life balance practices.
 Monitor employee workload and overtime patterns.
 Improve managerial support and communication.
 Use workforce analytics to identify high-risk burnout groups early.
+
