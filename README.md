@@ -13,14 +13,20 @@ As organizations increasingly adopt AI technologies and digital workflows, emplo
 This project aims to answer key questions such as:
 
 Does higher stress lead to increased burnout?
+
 How does AI adoption affect employee wellbeing?
+
 Which workplace factors contribute most to burnout?
+
 How does burnout influence employee attrition risk?
+
 What role do sleep, workload, and managerial support play in workforce mental health?
+
 
 Tools & Technologies Used
 
 Tool	Purpose
+
 Python Data cleaning, preprocessing, EDA
 
 Pandas & NumPy	Data manipulation
@@ -72,7 +78,8 @@ Managerial support metrics
 
 Key Analysis Performed
 
-Python Analysis
+
+Python Analysis :
 
 Data cleaning & preprocessing
 
@@ -88,7 +95,8 @@ Burnout trend analysis
 
 Stress distribution analysis
 
-SQL Analysis
+
+SQL Analysis :
 
 KPI analysis
 
@@ -104,7 +112,8 @@ Advanced SQL queries
 
 Window functions & CTEs
 
-Tableau Dashboard
+
+Tableau Dashboard :
 
 Executive KPI Dashboard
 
@@ -116,15 +125,25 @@ Attrition Risk Dashboard
 
 Mental Health Analytics Dashboard
 
-Key Insights
+
+Key Insights :
+
 Higher stress levels strongly correlate with increased employee burnout.
+
 Employees with poor sleep patterns report significantly higher burnout scores.
+
 High burnout groups demonstrate elevated job change intention and retention risk.
+
 AI adoption is reshaping workplace productivity and wellbeing patterns.
+
 Strong managerial support reduces employee stress and emotional exhaustion.
+
 Extended work hours contribute to emotional fatigue and lower work-life balance.
+
 Remote and hybrid employees generally report healthier work-life balance outcomes.
+
 Burnout is influenced by multiple interconnected workplace and lifestyle factors.
+
 
 Dashboard Preview
 
@@ -135,8 +154,13 @@ Executive Dashboard
 Business Recommendations
 
 Implement proactive mental health support programs.
+
 Encourage healthier work-life balance practices.
+
 Monitor employee workload and overtime patterns.
+
 Improve managerial support and communication.
+
 Use workforce analytics to identify high-risk burnout groups early.
+
 
